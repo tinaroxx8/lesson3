@@ -46,6 +46,14 @@ a
     color: lightcoral;
     text-decoration: none;
     }
+a:visited
+{
+    color: lightblue;
+}
+a:hover 
+{
+    background-color: slategray;
+}
 
 .text
 {
